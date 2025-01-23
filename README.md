@@ -63,6 +63,9 @@ Before using RGB LED Basher, ensure the following:
 **IF You are using rgb_new script, you can use the -on or -off parameters to 
 control the RGB without the menu!**
 
+**IF Your RGB resets when pressing the Caps or Num Lock keys, you can use -reset in 
+the new_rgb Script, or turn RGB off/on!**
+
 1.  Select one of the following options:
    - 1. Turn RGB On
    - 2. Turn RGB Off
