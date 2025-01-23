@@ -69,6 +69,7 @@ the new_rgb Script, or turn RGB off/on!**
 1.  Select one of the following options:
    - 1. Turn RGB On
    - 2. Turn RGB Off
+   - 3. Reset RGB
         
 2.  Enter your SUDO password (If you already did before, you shouldn't have
     to do it again)
