@@ -12,6 +12,7 @@ function toggle_rgb {
         exit 0
     fi
 
+    echo "Did you know that you could use -on or -off to control RGB without this menu?"
     echo "Select an option:"
     echo "1. Turn RGB On"
     echo "2. Turn RGB Off"
