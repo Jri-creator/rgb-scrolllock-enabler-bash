@@ -47,10 +47,11 @@ Before using RGB LED Basher, ensure the following:
   - `git clone https://github.com/jri-creator/rgb-scrolllock-enabler-bash.git`
   - `cd rgb-scrolllock-enabler-bash`
 2.  Make the script executable
+   - `chmod +x rgb_new.sh` **OR**
    - `chmod +x rgb.sh`
 3.  (Optional) Move the script to a directory in your `PATH` for easier
     use
-    - Rename rgb.sh to rgb (no ending)
+    - Rename rgb_new.sh **OR** rgb.sh to rgb (no ending)
     - `sudo mv rgb /usr/local/bin`
     -    -    Now you can run the program simply by typing `rgb` in any
         terminal.
@@ -58,6 +59,9 @@ Before using RGB LED Basher, ensure the following:
 4. Run the script
 
 **Follow the prompts**
+
+**IF You are using rgb_new script, you can use the -on or -off parameters to 
+control the RGB without the menu!**
 
 1.  Select one of the following options:
    - 1. Turn RGB On
