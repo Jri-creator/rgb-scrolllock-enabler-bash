@@ -64,12 +64,12 @@ Before using RGB LED Basher, ensure the following:
 control the RGB without the menu!**
 
 **IF Your RGB resets when pressing the Caps or Num Lock keys, you can use -reset in 
-the new_rgb Script, or turn RGB off/on!**
+the new_rgb Script to turn RGB off/on!**
 
 1.  Select one of the following options:
    - 1. Turn RGB On
    - 2. Turn RGB Off
-   - 3. Reset RGB
+   - 3. Reset RGB (This turns the RGB off/on to fix RGB off on Caps/Num Lock keypress)
         
 2.  Enter your SUDO password (If you already did before, you shouldn't have
     to do it again)
