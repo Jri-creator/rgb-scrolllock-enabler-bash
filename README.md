@@ -59,7 +59,7 @@ Before using RGB LED Basher, ensure the following:
 
 **Follow the prompts**
 
-1.  -   Select one of the following options:
+1.  Select one of the following options:
         -1. Turn RGB On
         -2. Turn RGB Off
         
