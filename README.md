@@ -47,6 +47,7 @@ Debian Package:
 1.  Download the Debian File
 2.  Navigate to the folder where the Debian Package is located
 3.  Execute `dpkg -i rgb.deb` or use your favorite graphical installer
+4.  Run the script
 
 
 Direct Bash:
